@@ -1,3 +1,6 @@
-console.log("Привет")
 
-console.log("dsds")
+
+
+
+
+console.log("Вот твой ответ")
