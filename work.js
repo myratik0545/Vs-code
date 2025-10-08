@@ -4,4 +4,3 @@ function c(){
   console.log(a+b)
 }
 
-c()
