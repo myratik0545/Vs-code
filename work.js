@@ -1,7 +1,3 @@
-function c(){
-  a =4
-  b = 2
-  console.log(a+b)
+function test(){
+  console.log("ds")
 }
-c()
-
